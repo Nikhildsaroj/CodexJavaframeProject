@@ -79,7 +79,10 @@ To get started with the **Codex Web Learning Platform**, follow these steps:
    ```bash
    git clone https://github.com/your-username/CodexWebLearningPlatform.git
 
-   output:
+   
+ 
+ 
+output:
    <img width="452" alt="image" src="https://github.com/user-attachments/assets/559762ec-6875-45b6-b01f-aa9d804a2f57">
    <img width="452" alt="image" src="https://github.com/user-attachments/assets/833c3305-8436-4b4f-8874-5f0d07be3ff9">
    <img width="452" alt="image" src="https://github.com/user-attachments/assets/ba755eba-1ea1-4da0-99b6-1c89977a539d">
@@ -90,8 +93,6 @@ To get started with the **Codex Web Learning Platform**, follow these steps:
    <img width="452" alt="image" src="https://github.com/user-attachments/assets/36a6fa36-3c66-45f6-9814-5f47d91eadaa">
    <img width="438" alt="image" src="https://github.com/user-attachments/assets/4c261cb1-cb28-497e-8300-0ee61a168e6e">
    Miniproject.html:
- 
- 
 freetutorial.jsp:
  
 Paidcourse.jsp:
