@@ -78,3 +78,152 @@ To get started with the **Codex Web Learning Platform**, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/CodexWebLearningPlatform.git
+
+   output:
+   <img width="452" alt="image" src="https://github.com/user-attachments/assets/559762ec-6875-45b6-b01f-aa9d804a2f57">
+   <img width="452" alt="image" src="https://github.com/user-attachments/assets/833c3305-8436-4b4f-8874-5f0d07be3ff9">
+   <img width="452" alt="image" src="https://github.com/user-attachments/assets/ba755eba-1ea1-4da0-99b6-1c89977a539d">
+   <img width="452" alt="image" src="https://github.com/user-attachments/assets/4907b463-1441-4217-9c3e-c49d2506998c">
+   <img width="452" alt="image" src="https://github.com/user-attachments/assets/535b778b-8fb8-4b18-986b-25765f406557">
+   <img width="452" alt="image" src="https://github.com/user-attachments/assets/5b616bc1-2f4b-42af-81f1-dc23e2e27e5e">
+   <img width="452" alt="image" src="https://github.com/user-attachments/assets/53640413-5968-4d91-a2cc-1ce4999bb179">
+   <img width="452" alt="image" src="https://github.com/user-attachments/assets/36a6fa36-3c66-45f6-9814-5f47d91eadaa">
+   <img width="438" alt="image" src="https://github.com/user-attachments/assets/4c261cb1-cb28-497e-8300-0ee61a168e6e">
+   Miniproject.html:
+ 
+ 
+freetutorial.jsp:
+ 
+Paidcourse.jsp:
+ 
+ 
+ 
+ 
+enrollment.jsp:
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aihome.html
+    
+Vipform.html
+      
+Viplogin.html
+
+Aivippage.html    
+
+Animerecommedation(localhost:8002)
+
+
+
+ 
+
+
+
+
+
+
+
+
+recommedation(localhost:8001)
+
+ddddddd
+
+
+
+
+
+
+
+
+
+
+Imageclassfication(localhost:8000)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reviewform.jsp
+
+  
+
+
+
+
+
+
+
+
+Adminlogin.jsp
+
+Adminpanel.jsp:
+
+
+
+Userdata.jsp, FetchUserDataServlet
+
+
+
+
+Coursedata.jsp, FetchCourseDataServlet
+
+Editcoursesevlet
+
+deletecourseServlet:
+
+
+
+courseform.jsp
+
+
+Enrollmentdata.jsp , FetchEnrollmentDataServlet
+
+
+
+
+enrolledusers.jsp , EnrolledUserServlet
+
+
+ 
+FetchViptable.java 
+
+
+
+
+
+
+
+FetchReviewDataSevlet.java
+
+
+
+
+
+
+
+
+
+
